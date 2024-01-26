@@ -1,3 +1,5 @@
+Suggested tags: oauth, authorization, apis
+
 # [](#openai_miro)[Learn OAuth essentials on the Miro Developer Platform](https://developers.miro.com/docs/video-oauth-essentials-for-frontenders?utm_source=devto_oauth)
 
 [![](https://github.com/bishopwm/jsWorldTest/assets/10800544/550e9c40-b254-422a-86a6-7664aa88a83a)](https://dev.to/advertising-interest?bb=youradhere-text)
@@ -18,6 +20,8 @@ Leverage 3rd-party APIs in your apps with OAuth2.0 and Miro.
 
 ---
 
+Suggested tags: react, javascript, performance
+
 # [](#openai_miro)[Leverage React Server Components with Miro](https://dev.to/mirodevelopers/harnessing-the-power-of-react-server-components-miro-3h50?utm_source=devto_rsc)
 
 [![](https://github.com/bishopwm/jsWorldTest/assets/10800544/ff472917-df71-4bae-badf-a91cb5a9f47c)](https://dev.to/advertising-interest?bb=youradhere-text)
@@ -37,6 +41,8 @@ Implement React Server Components with Miro's Developer Platform.
 **[Read the blog post→](https://dev.to/mirodevelopers/harnessing-the-power-of-react-server-components-miro-3h50?utm_source=devto_rsc)**
 
 ---
+
+Suggested tags: challenge, sdk, miro, collaboration 
 
 # [](#openai_miro)[Collect your first Miro developer Badge](https://developers.miro.com/docs/challenge-wheres-miro?utm_source=devto_scavenger)
 
